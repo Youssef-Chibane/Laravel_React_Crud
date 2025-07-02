@@ -66,9 +66,9 @@ export default function PostCreate() {
                         </div>
 
                         <div className="flex gap-2">
-                            <Button>Submit</Button>
+                            <Button type="submit">Submit</Button>
                             <Link href={route('posts.index')}>
-                                <Button>Back</Button>
+                                <Button variant="outline">Back</Button>
                             </Link>
                         </div>
                     </form>
