@@ -44,12 +44,12 @@ npm run dev
 
 ### Dashboard
 
-![Dashboard](screenshots/1.png)
+![Dashboard](/public/screenshots/1.png)
 
 ### Create Post
 
-![Create Post](screenshots/2.png)
+![Create Post](/public/screenshots/2.png)
 
 ### Edit Post
 
-![Edit Post](screenshots/3.png)
+![Edit Post](/public/screenshots/3.png)
