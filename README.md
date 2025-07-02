@@ -39,3 +39,17 @@ php artisan migrate
 php artisan serve
 npm run dev
 ```
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/1.png)
+
+### Create Post
+
+![Create Post](screenshots/2.png)
+
+### Edit Post
+
+![Edit Post](screenshots/3.png)
